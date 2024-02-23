@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import retro from "/image-retro-pcs.jpg";
 import top from "/image-top-laptops.jpg";
 import growth from "/image-gaming-growth.jpg";
